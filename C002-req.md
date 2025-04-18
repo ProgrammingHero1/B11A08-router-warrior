@@ -2,7 +2,7 @@
 
 Welcome, Developer!
 
-Your task is to build a React-based **Lawyer Appointment Booking Web App** that allows users to browse lawyer profiles and schedule appointments. Follow the feature guidelines below strictly based on the Figma design (provided separately).
+Your task is to build a React-based **Lawyer Appointment Booking Web App** that allows users to browse lawyer profiles and schedule appointments.  The application includes multiple pages, data persistence, interactive UI elements, routing, and visual representation using charts.
 
 ---
 
