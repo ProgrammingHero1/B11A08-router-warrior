@@ -15,10 +15,5 @@
 ---
 
 ## Categories
-
-<table>
- <tr>
-  <td>🏥[Category -001](/C001-req.md) </td>
-  <td>⚖️[Category -002](/C002-req.md)</td>
- <tr>
-</table>
+### [Category -001](/C001-req.md)  🏥 Medical Appointment Booking Application
+### [Category -002](/C002-req.md)  ⚖️ Lawyer Appointment Booking Application
