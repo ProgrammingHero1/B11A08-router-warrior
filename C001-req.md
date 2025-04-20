@@ -44,6 +44,8 @@ Build A React-based web application for scheduling and managing doctor appointme
   - Experience
   - Registration Number
   - “View Details” button (navigates to doctor details route)
+- There will be a Show All Button. on Clicking it ,  You have to load all the 12 Doctors Card in your UI. 
+ 
 
 ### ➤ Success Section
 
