@@ -20,7 +20,7 @@ Build A React-based web application for scheduling and managing doctor appointme
 - Includes:
   - Centered Logo
   - Navigation Menus (as per Figma)
-  - 4 Social Icons (redirect to developer's personal profiles)
+  - 3 Social Icons (redirect to developer's personal profiles)
 
 ---
 
@@ -88,7 +88,7 @@ Build A React-based web application for scheduling and managing doctor appointme
   - “Cancel Appointment” Button
 - If **no appointments** found:
   - Show heading & a button to navigate to Homepage
-- Appointment state should **persist on page reload**
+- Appointment state should persist on page reload ( **USE LOCALSTORAGE** ) 
 - Cancel button removes the appointment
 
 ---
@@ -136,7 +136,7 @@ Design a blogs page to answer the following:
 
 ### ➤ Invalid Dynamic Routes
 
-- If invalid route visited (e.g., `/doctors/invalid-id`), show error message
+-  If invalid route visited (e.g., `/doctors/invalid-id`), show error message
 
 ### ➤ Redirection & Loading States
 
@@ -159,7 +159,7 @@ Design a blogs page to answer the following:
 - Change title dynamically:
   - Booking Page → `Booking`
   - Doctor Details → Doctor’s Name
-- **Do not** use third-party NPM packages
+- **Do not** use third-party NPM packages for this feature
 
 ---
 
