@@ -36,7 +36,7 @@ Your task is to build a React-based **Lawyer Appointment Booking Web App** that 
 ### ⚖️ Lawyers Section
 
 - [ ] Add a section heading and text (as per Figma)
-- [ ] Display **6 lawyers** in a `3 x 2` grid format
+- [ ] Display **6 lawyers** in a `3 x 2`/ `2 x 3`  grid format
 - [ ] Each Lawyer Card should include:
   - [ ] Image
   - [ ] Name
