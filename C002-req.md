@@ -1,4 +1,4 @@
-# 🧪 Lawyer Appointment Booking Application - Developer Assessment
+# 🧪 Lawyer Appointment Booking Application 
 
 Welcome, Developer!
 
@@ -21,7 +21,7 @@ Your task is to build a React-based **Lawyer Appointment Booking Web App** that 
 
 - [ ] Center-aligned **Logo**
 - [ ] Navigation menu items (as per Figma)
-- [ ] Include **4 Social Media Icons** that link to your personal profiles
+- [ ] Include **3 Social Media Icons** that link to your personal profiles
 - [ ] Display footer on **all pages except error routes**
 
 ---
@@ -89,7 +89,7 @@ Your task is to build a React-based **Lawyer Appointment Booking Web App** that 
   - Display a heading message
   - Show a button to return to Homepage
 - [ ] Cancel button must remove the appointment
-- [ ] Bookings should persist even after page reload (use localStorage or context)
+- [ ] Bookings should persist even after page reload **(use localStorage)**
 
 ---
 
